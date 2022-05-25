@@ -1,4 +1,20 @@
 {
+  "CF158408751": {
+    "contest_id": 492,
+    "language": "GNU C++17",
+    "path": "codeforces/492/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Vanya and Cubes",
+    "problem_url": "https://codeforces.com/contest/492/problem/A",
+    "submission_id": "CF158408751",
+    "submission_url": "https://codeforces.com/contest/492/submission/158408751",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "May/25/2022 18:32"
+  },
   "CF158410957": {
     "contest_id": 1303,
     "language": "GNU C++17",
