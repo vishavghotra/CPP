@@ -1,4 +1,21 @@
 {
+  "CF167900355": {
+    "contest_id": 610,
+    "language": "GNU C++17",
+    "path": "codeforces/610/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Pasha and Stick",
+    "problem_url": "https://codeforces.com/contest/610/problem/A",
+    "submission_id": "CF167900355",
+    "submission_url": "https://codeforces.com/contest/610/submission/167900355",
+    "tags": [
+      "combinatorics",
+      "math",
+      "*1000"
+    ],
+    "timestamp": "Aug/11/2022 19:55"
+  },
   "CF167902676": {
     "contest_id": 69,
     "language": "GNU C++17",
