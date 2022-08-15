@@ -7,14 +7,6 @@ int main()
 {
     cin >> T;
     while (T--)
-    {
-        cin >> N >> K;
-        if (N < K)
-        {
-            cout << (K + N - 1) / N << endl;
-        }
-        else
-            K *= (N + K - 1) / K, cout << (K + N - 1) / N << endl;
-    }
+        cin >> N >> K, K *= (N + K - 1) / K, cout << (K + N - 1) / N << endl;
     return 0;
 }
