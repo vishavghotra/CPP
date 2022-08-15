@@ -1,0 +1,20 @@
+#include <bits/stdc++.h>
+#include <stdio.h>
+#define ext long long
+using namespace std;
+long long T, N, K;
+int main()
+{
+    cin >> T;
+    while (T--)
+    {
+        cin >> N >> K;
+        if (N < K)
+        {
+            cout << (K + N - 1) / N << endl;
+        }
+        else
+            K *= (N + K - 1) / K, cout << (K + N - 1) / N << endl;
+    }
+    return 0;
+}
