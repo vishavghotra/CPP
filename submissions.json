@@ -1,4 +1,21 @@
 {
+  "CF168482968": {
+    "contest_id": 287,
+    "language": "GNU C++17",
+    "path": "codeforces/287/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Pipeline",
+    "problem_url": "https://codeforces.com/contest/287/problem/B",
+    "submission_id": "CF168482968",
+    "submission_url": "https://codeforces.com/contest/287/submission/168482968",
+    "tags": [
+      "binary search",
+      "math",
+      "*1700"
+    ],
+    "timestamp": "Aug/16/2022 11:15"
+  },
   "CF168483806": {
     "contest_id": 287,
     "language": "GNU C++17",

@@ -19,10 +19,9 @@ int main()
     {
         ll l = 0;
         ll h = k - 1;
-        ll mid = 0;
         while (l <= h)
         {
-            mid = l + (h - l) / 2;
+            ll mid = l + (h - l) / 2;
             if (s - sum(mid) >= n - 1)
                 l = mid + 1;
             else
