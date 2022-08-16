@@ -19,7 +19,7 @@ int main()
     {
         ll l = 0;
         ll h = k - 1;
-        ll mid = 1;
+        ll mid = 0;
         while (l <= h)
         {
             mid = l + (h - l) / 2;
