@@ -40,5 +40,5 @@ int main()
         else
             l = mid + 1;
     }
-    cout << l << endl;
+    cout << ((l == n) ? (l - 1) : l) << endl;
 }
