@@ -1,4 +1,25 @@
 {
+  "CF168998560": {
+    "contest_id": 5,
+    "language": "GNU C++17",
+    "path": "codeforces/5/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Longest Regular Bracket Sequence",
+    "problem_url": "https://codeforces.com/contest/5/problem/C",
+    "submission_id": "CF168998560",
+    "submission_url": "https://codeforces.com/contest/5/submission/168998560",
+    "tags": [
+      "constructive algorithms",
+      "data structures",
+      "dp",
+      "greedy",
+      "sortings",
+      "strings",
+      "*1900"
+    ],
+    "timestamp": "Aug/19/2022 19:18"
+  },
   "CF171121593": {
     "contest_id": 1515,
     "language": "GNU C++17",
