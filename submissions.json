@@ -1,4 +1,22 @@
 {
+  "CF191031984": {
+    "contest_id": 1790,
+    "language": "GNU C++17",
+    "path": "codeforces/1790/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Polycarp and the Day of Pi",
+    "problem_url": "https://codeforces.com/contest/1790/problem/A",
+    "submission_id": "CF191031984",
+    "submission_url": "https://codeforces.com/contest/1790/submission/191031984",
+    "tags": [
+      "implementation",
+      "math",
+      "strings",
+      "*800"
+    ],
+    "timestamp": "Jan/28/2023 22:37"
+  },
   "CF198844707": {
     "contest_id": 1806,
     "language": "GNU C++17",
